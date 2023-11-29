@@ -3,7 +3,7 @@
     "path": "C:/git-repos/20231129/20231129/1129.R",
     "project_path": "1129.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4150762376",
     "contents": "",
     "dirty": false,
     "created": 1701250601649.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,18",
+        "cursorPosition": "3,21",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1701250913,
+    "lastKnownWriteTime": 1701251091,
     "encoding": "BIG5",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1701250913662,
+    "last_content_update": 1701251091956,
     "read_only": false,
     "read_only_alternatives": []
 }
